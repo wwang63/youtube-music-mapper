@@ -1,0 +1,143 @@
+{
+  "id": "1560a59a",
+  "name": "Test Friend",
+  "created_at": 1768302682,
+  "public": true,
+  "stats": {
+    "artist_count": 7,
+    "song_count": 15,
+    "top_genre": "Electronic",
+    "diversity_score": 0.94
+  },
+  "taste_vector": {
+    "genre_weights": {
+      "UK House": 0.2,
+      "Other": 0.06666666666666667,
+      "Dubstep/Bass": 0.2,
+      "Electronic": 0.3333333333333333,
+      "Pop": 0.2
+    },
+    "top_artists": [
+      "Skrillex",
+      "Excision",
+      "Porter Robinson",
+      "The Weeknd",
+      "Benny Benassi",
+      "Madeon",
+      "Daft Punk"
+    ],
+    "artist_count": 7,
+    "song_count": 15,
+    "diversity_score": 0.94,
+    "top_genre": "Electronic"
+  },
+  "music_data": {
+    "liked_songs": [
+      {
+        "title": "Scary Monsters",
+        "artists": [
+          {
+            "name": "Skrillex"
+          }
+        ]
+      },
+      {
+        "title": "Bangarang",
+        "artists": [
+          {
+            "name": "Skrillex"
+          }
+        ]
+      },
+      {
+        "title": "Cinema",
+        "artists": [
+          {
+            "name": "Skrillex"
+          },
+          {
+            "name": "Benny Benassi"
+          }
+        ]
+      },
+      {
+        "title": "Scary Love",
+        "artists": [
+          {
+            "name": "Excision"
+          }
+        ]
+      },
+      {
+        "title": "Rumble",
+        "artists": [
+          {
+            "name": "Excision"
+          }
+        ]
+      },
+      {
+        "title": "Throwin Elbows",
+        "artists": [
+          {
+            "name": "Excision"
+          }
+        ]
+      },
+      {
+        "title": "Language",
+        "artists": [
+          {
+            "name": "Porter Robinson"
+          }
+        ]
+      },
+      {
+        "title": "Shelter",
+        "artists": [
+          {
+            "name": "Porter Robinson"
+          },
+          {
+            "name": "Madeon"
+          }
+        ]
+      },
+      {
+        "title": "Sad Machine",
+        "artists": [
+          {
+            "name": "Porter Robinson"
+          }
+        ]
+      },
+      {
+        "title": "Blinding Lights",
+        "artists": [
+          {
+            "name": "The Weeknd"
+          }
+        ]
+      },
+      {
+        "title": "Save Your Tears",
+        "artists": [
+          {
+            "name": "The Weeknd"
+          }
+        ]
+      },
+      {
+        "title": "Starboy",
+        "artists": [
+          {
+            "name": "The Weeknd"
+          },
+          {
+            "name": "Daft Punk"
+          }
+        ]
+      }
+    ]
+  }
+}

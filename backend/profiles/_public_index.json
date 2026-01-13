@@ -1,0 +1,71 @@
+{
+  "profiles": [
+    {
+      "id": "1d7af474",
+      "name": "William",
+      "created_at": 1768302662,
+      "stats": {
+        "artist_count": 1204,
+        "song_count": 2733,
+        "top_genre": "Other",
+        "diversity_score": 0.625
+      },
+      "top_artists": [
+        "Subtronics",
+        "Martin Garrix",
+        "Seven Lions",
+        "ILLENIUM",
+        "Skrillex",
+        "Fred again..",
+        "Excision",
+        "Gryffin",
+        "Knock2",
+        "ISOxo"
+      ]
+    },
+    {
+      "id": "1560a59a",
+      "name": "Test Friend",
+      "created_at": 1768302682,
+      "stats": {
+        "artist_count": 7,
+        "song_count": 15,
+        "top_genre": "Electronic",
+        "diversity_score": 0.94
+      },
+      "top_artists": [
+        "Skrillex",
+        "Excision",
+        "Porter Robinson",
+        "The Weeknd",
+        "Benny Benassi",
+        "Madeon",
+        "Daft Punk"
+      ]
+    },
+    {
+      "id": "1b229c51",
+      "name": "Music Fan #1B22",
+      "created_at": 1768303051,
+      "stats": {
+        "artist_count": 1204,
+        "song_count": 2733,
+        "top_genre": "Other",
+        "diversity_score": 0.625
+      },
+      "top_artists": [
+        "Subtronics",
+        "Martin Garrix",
+        "Seven Lions",
+        "ILLENIUM",
+        "Skrillex",
+        "Fred again..",
+        "Excision",
+        "Gryffin",
+        "Knock2",
+        "ISOxo"
+      ]
+    }
+  ],
+  "updated_at": 1768303051
+}
